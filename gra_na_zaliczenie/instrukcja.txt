@@ -1,0 +1,4 @@
+Ochrona Planety
+
+W grze, poprzez poruszanie sie myszką musimy zatrzymywać naszym statkiem spadające w dół meteory.
+W prawym górym rogu wyświetla się liczba pozostałych żyć, gdy nie złapiemy meteoru a liczba pozostałych żyć pokazuje 0 gra się kończy.
